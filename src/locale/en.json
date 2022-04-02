@@ -1,0 +1,20 @@
+{
+    "translation": {
+      "login": "Log In",
+      "new-member": "New Member?",
+      "password": "Password",
+      "remember-me": "Remember me",
+      "forgot-password": "Forgot Password?",
+      "create-account": "Create Account",
+      "sign-in-with": "or Sign In with",
+  
+      "username": "Username",
+      "repeat-password": "Repeat password",
+      "sign-up": "Sign Up",
+      "sign-up-with": "or Sign up with",
+      "have-account": "Already have an account?",
+      "search": "Search",
+      "searchBar": "Advertisements near me..."
+    }
+  }
+  

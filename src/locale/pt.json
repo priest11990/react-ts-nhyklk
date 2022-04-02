@@ -1,0 +1,19 @@
+{
+    "translation": {
+      "login": "Entrar",
+      "new-member": "Novo membro?",
+      "password": "Palavra-passe",
+      "remember-me": "Lembrar-me",
+      "forgot-password": "Esqueci-me da palavra-passe",
+      "create-account": "Criar Conta",
+      "sign-in-with": "ou entre com",
+  
+      "username": "Nome de utilizador",
+      "repeat-password": "Repetir palavra-passe",
+      "sign-up": "Registar",
+      "sign-up-with": "ou registe-se com",
+      "have-account":"Já tem conta?",
+      "search": "Pesquisar",
+      "searchBar": "Anúncios perto de mim..."
+    }
+  }
